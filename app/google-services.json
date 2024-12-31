@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1013984697630",
+    "project_id": "festify-fa632",
+    "storage_bucket": "festify-fa632.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013984697630:android:05d4f23a4698cb07407d0f",
+        "android_client_info": {
+          "package_name": "com.example.ticketsappredesign2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTQhU7JZG96gJKFzpKQ2ugvTk3xYkCVEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
